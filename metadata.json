@@ -1,0 +1,6 @@
+{
+  "name": "TurboGet",
+  "description": "Pengunduh file besar canggih seperti IDM dengan fitur resume cerdas, multi-koneksi, dan penjadwalan otomatis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
